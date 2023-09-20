@@ -138,19 +138,28 @@ a:hover {
 .section-padding {
   padding-top: 120px;
   padding-bottom: 120px;
+  background: var(--section-bg-color);
 }
 
 .section-2-padding {
   padding-top: 80px;
+  background: var(--section-bg-color);
 }
 
 .section-3-padding {
-  padding-top: 120px;
+  padding-top: 100px;
+  background: var(--section-bg-color);
 }
 
 .section-4-padding {
-  padding-top: 120px;
+  padding-top: 100px;
+  background: var(--section-bg-color);
+}
+
+.section-5-padding {
+  padding-top: 100px;
   padding-bottom: 60px;
+  background: var(--section-bg-color);
 }
 
 
